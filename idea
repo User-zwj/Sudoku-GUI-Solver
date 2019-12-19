@@ -1,0 +1,12 @@
+Idea 1: How to initialize the board?
+        How many numbers can be typed in?
+	How to determine the answer is unique?
+
+Idea 2: Instead of using backtracking, can also implement the method I always use
+
+Idea 3: Hight the corresponding row and column of the cursor
+
+Idea 4: Randomize the initial board
+
+Idea 5: Put enter and del key on the board
+
